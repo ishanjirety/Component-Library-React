@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+*:focus{
+    outline: none;
+}
+.alert{
+    background-color:#B8DAFF;
+    border:1px solid #B8DAFF;
+    padding:15px;
+    border-radius:10px;
+    color: #00659F;
+    font-family: 'Roboto Condensed', sans-serif;
+    width:50%;
+    margin: 5px;
+}
+p{
+    margin:0;
+}
